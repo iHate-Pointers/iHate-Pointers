@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iHate-Pointers
 - 👀 I’m interested in Front/Backend Works...
-- 🌱 I’m currently learning Full Stack website building
-- 💞️ I’m looking to collaborate on the above mentioned project
+- 🌱 I’m currently a full time associate at Deloitte India.
+- 💞️ I’m building free open source projects for anyone to fork or use!
 - 📫 Get in touch with me! shoaibbhutia99@gmail.com
 
 <!---
